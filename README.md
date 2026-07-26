@@ -19,7 +19,7 @@
 <sup>Arguments wrapped with &lt;angle brackets&gt; are required and arguments wrapped with [square brackets] are optional</sup>
 
 ## Installation
-- Download the [latest release](https://github.com/f11y11/nfuyu-bot/releases/latest) or clone the repository <sub>`git clone https://github.com/f11y11/nfuyu-bot.git`</sub>
+- Download the [latest release](https://github.com/ffuyu/nfuyu-bot/releases/latest) or clone the repository <sub>`git clone https://github.com/ffuyu/nfuyu-bot.git`</sub>
 - Install the dependencies <sub>`pip install -r requirements.txt`</sub>
 - Copy the contents of `.env-template` into `.env` <sub>`cp .env-template .env`</sub>
 - Copy the contents of `config.yml-template` into `config.yml` <sub>`cp config.yml-template config.yml`</sub>
@@ -32,5 +32,5 @@
 - [Send an email](mailto:support@fuyu.gg)
 - [Discord Server](https://discord.gg/fuZy7MUh7Y)
 
-<sub>Looking for change logs? They are now shared with each [release](https://github.com/f11y11/nfuyu-bot/releases)</sub>
+<sub>Looking for change logs? They are now shared with each [release](https://github.com/ffuyu/nfuyu-bot/releases)</sub>
 # <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" width="25" alt="JetBrains Logo (Main) logo."> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.png" width="25" alt="PyCharm logo.">
